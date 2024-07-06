@@ -13,7 +13,7 @@ A completely Responsive Multiplayer TicTacToe Game- Works on Android, iOS, Web &
 ## About
 
 <p align="center">
-  <img width="600" src="https://github.com/RivaanRanawat/flutter-multiplayer-tictactoe/blob/master/screenshot.png" alt="Youtube Tutorial Image">
+  <img width="600" src="[https://github.com/RivaanRanawat/flutter-multiplayer-tictactoe/blob/master/screenshot.png](https://github.com/mamonchw/multiplayer-tictactoe/blob/main/screenshot.png)" alt="Youtube Tutorial Image">
 </p>
 
 
